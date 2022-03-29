@@ -64,3 +64,14 @@ Hasil Browser
  
 ![image](https://user-images.githubusercontent.com/101645216/160590977-117b395f-aeca-44fa-8cbe-bf02b1ea3e26.png)
   
+TUGAS 
+  
+Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+dengan cara menambahkan multiple="multiple" pada tag select
+  
+![image](https://user-images.githubusercontent.com/101645216/160593028-66b8fd41-8df6-4bc7-99cb-155f31cd37ca.png)
+  
+![image](https://user-images.githubusercontent.com/101645216/160593806-be8f6c89-b518-4b79-ae98-757964d608ea.png)
+
+  
